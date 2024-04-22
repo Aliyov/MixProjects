@@ -1,5 +1,5 @@
 //Support xətti üçün 2 versiya yazmışam birinci sadədi ancaq 1 aralığı çıxardır. İkinci biraz qəlizdi ən çox 
-//rastlanan aralıqları tezliyi ilə birgə çıxardır.
+//rastlanan aralıqları tezliyi ilə birgə çıxardır..
 
 //CSV faylını oxumaq üçün funksiya yazmışam amma tamamlanmayıb deyə üstündə işləmək olmur. Funksiya ancaq oxuya bilir.
 //Kod Random aralıq məntiqi ilə işləyir 

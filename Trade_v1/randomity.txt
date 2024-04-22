@@ -1,28 +1,28 @@
-Price 1: 44777, Change: -223, Percentage: 0%, MA Average: 44888.50
-Price 2: 45032, Change: 255, Percentage: 0%, MA Average: 44936.33
-Price 3: 45162, Change: 130, Percentage: 0%, MA Average: 44992.75
-Price 4: 45578, Change: 416, Percentage: 1%, MA Average: 45109.80
-Price 5: 45276, Change: -302, Percentage: 0%, MA Average: 45137.50
-Price 6: 45150, Change: -126, Percentage: 0%, MA Average: 45139.29
-Price 7: 45610, Change: 460, Percentage: 0%, MA Average: 45198.13
-Price 8: 45711, Change: 101, Percentage: 1%, MA Average: 45255.11
-Price 9: 45861, Change: 150, Percentage: 1%, MA Average: 45315.70
-Price 10: 45388, Change: -473, Percentage: 0%, MA Average: 45322.27
-Price 11: 45120, Change: -268, Percentage: 0%, MA Average: 45305.42
-Price 12: 44856, Change: -264, Percentage: 0%, MA Average: 45270.85
-Price 13: 44583, Change: -273, Percentage: -1%, MA Average: 45221.71
-Price 14: 44340, Change: -243, Percentage: -1%, MA Average: 45162.93
-Price 15: 44191, Change: -149, Percentage: -2%, MA Average: 45102.19
-Price 16: 43745, Change: -446, Percentage: -2%, MA Average: 45022.35
-Price 17: 43933, Change: 188, Percentage: -2%, MA Average: 44961.83
-Price 18: 43959, Change: 26, Percentage: -2%, MA Average: 44909.05
-Price 19: 43452, Change: -507, Percentage: -3%, MA Average: 44836.20
-Price 20: 43691, Change: 239, Percentage: -2%, MA Average: 44770.75
-Support line: 45000
-Possible Resistance Line
+Price 1: 44653, Change: -347, Percentage: 0%, MA Average: 44826.50
+Price 2: 44106, Change: -547, Percentage: -1%, MA Average: 44586.33
+Price 3: 44237, Change: 131, Percentage: 0%, MA Average: 44499.00
+Price 4: 44169, Change: -68, Percentage: 0%, MA Average: 44433.00
+Price 5: 44563, Change: 394, Percentage: 0%, MA Average: 44454.67
+Price 6: 44594, Change: 31, Percentage: 0%, MA Average: 44474.57
+Price 7: 44507, Change: -87, Percentage: 0%, MA Average: 44478.63
+Price 8: 44631, Change: 124, Percentage: 0%, MA Average: 44495.56
+Price 9: 44765, Change: 134, Percentage: 0%, MA Average: 44522.50
+Price 10: 44463, Change: -302, Percentage: 0%, MA Average: 44517.09
+Price 11: 43904, Change: -559, Percentage: -1%, MA Average: 44466.00
+Price 12: 44221, Change: 317, Percentage: 0%, MA Average: 44447.15
+Price 13: 44613, Change: 392, Percentage: 0%, MA Average: 44459.00
+Price 14: 44980, Change: 367, Percentage: 1%, MA Average: 44493.73
+Price 15: 45563, Change: 583, Percentage: 2%, MA Average: 44560.56
+Price 16: 45517, Change: -46, Percentage: 2%, MA Average: 44616.82
+Price 17: 46079, Change: 562, Percentage: 3%, MA Average: 44698.06
+Price 18: 45898, Change: -181, Percentage: 2%, MA Average: 44761.21
+Price 19: 46160, Change: 262, Percentage: 2%, MA Average: 44831.15
+Price 20: 46507, Change: 347, Percentage: 3%, MA Average: 44906.50
+Support line: 44500
+Possible Support Line
 Top 5 most frequent buckets:
-Bucket: 45000, Frequency: 5
-Bucket: 45500, Frequency: 3
-Bucket: 43750, Frequency: 2
-Bucket: 43500, Frequency: 2
-Bucket: 45250, Frequency: 2
+Bucket: 44500, Frequency: 6
+Bucket: 44000, Frequency: 4
+Bucket: 45500, Frequency: 2
+Bucket: 44750, Frequency: 2
+Bucket: 46000, Frequency: 2
